@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet01", "Projet01.csproj", "{233F7EFA-3057-4EE6-B745-C8D4A4248C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leap", "leap\leap.csproj", "{06CCB8F1-0C20-45CD-9851-801651CAC6B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leap switch", "leap switch\leap switch.csproj", "{45DAE519-0832-4B46-A25C-A3C67960C947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233F7EFA-3057-4EE6-B745-C8D4A4248C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233F7EFA-3057-4EE6-B745-C8D4A4248C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233F7EFA-3057-4EE6-B745-C8D4A4248C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233F7EFA-3057-4EE6-B745-C8D4A4248C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06CCB8F1-0C20-45CD-9851-801651CAC6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CCB8F1-0C20-45CD-9851-801651CAC6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CCB8F1-0C20-45CD-9851-801651CAC6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CCB8F1-0C20-45CD-9851-801651CAC6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DAE519-0832-4B46-A25C-A3C67960C947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DAE519-0832-4B46-A25C-A3C67960C947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DAE519-0832-4B46-A25C-A3C67960C947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DAE519-0832-4B46-A25C-A3C67960C947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\alexd\RiderProjects\projet01\leap\bin\Debug\net6.0\leap.exe
+C:\Users\alexd\RiderProjects\projet01\leap\bin\Debug\net6.0\leap.deps.json
+C:\Users\alexd\RiderProjects\projet01\leap\bin\Debug\net6.0\leap.runtimeconfig.json
+C:\Users\alexd\RiderProjects\projet01\leap\bin\Debug\net6.0\leap.dll
+C:\Users\alexd\RiderProjects\projet01\leap\bin\Debug\net6.0\ref\leap.dll
+C:\Users\alexd\RiderProjects\projet01\leap\bin\Debug\net6.0\leap.pdb
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\leap.csproj.AssemblyReference.cache
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\leap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\leap.AssemblyInfoInputs.cache
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\leap.AssemblyInfo.cs
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\leap.csproj.CoreCompileInputs.cache
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\leap.dll
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\ref\leap.dll
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\leap.pdb
+C:\Users\alexd\RiderProjects\projet01\leap\obj\Debug\net6.0\leap.genruntimeconfig.cache

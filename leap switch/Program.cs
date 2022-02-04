@@ -21,7 +21,7 @@ switch (mois)
 
         if (yo % 1 == 0 && yo2 % 1 != 0 || yo3 % 1 == 0)
 
-            Console.Write("fevrier de " + "l'annee " + annee + " a 29 jours");
+            Console.Write("fevrier de l'annee " + annee + " a 29 jours");
 
         else
 
@@ -57,9 +57,12 @@ switch (mois)
     case 12:
         Console.Write("decembre de " + "l'annee " + annee + " a 31 jours");
         break;
-}
-        //salut
-        
+default:Console.Write("invalide");
+    break;
     
+}
+        
+        
+    //saucisse
 
 

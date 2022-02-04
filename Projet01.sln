@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leap", "leap\leap.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leap switch", "leap switch\leap switch.csproj", "{45DAE519-0832-4B46-A25C-A3C67960C947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labo 2", "labo 2\labo 2.csproj", "{E4B3F187-3CCB-4F1C-BC4A-58149AF61FE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{45DAE519-0832-4B46-A25C-A3C67960C947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45DAE519-0832-4B46-A25C-A3C67960C947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45DAE519-0832-4B46-A25C-A3C67960C947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B3F187-3CCB-4F1C-BC4A-58149AF61FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B3F187-3CCB-4F1C-BC4A-58149AF61FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B3F187-3CCB-4F1C-BC4A-58149AF61FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B3F187-3CCB-4F1C-BC4A-58149AF61FE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

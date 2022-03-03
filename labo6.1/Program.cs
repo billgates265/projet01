@@ -41,7 +41,6 @@ namespace labo6
                     total = Accumulator(nombre1, nombre2, nombre3, nombre4, nombre5);
                     Console.WriteLine($"la somme des 5 nombres est de {total}");
                     Console.WriteLine();
-                    
                 }
                 else if (input == 2)
                 {
@@ -60,17 +59,6 @@ namespace labo6
 
                     total = Sum(tableau);
                     Console.WriteLine($"la somme des 5 nombres est de {total}");
-
-                    static decimal Sum(decimal[] tableau)
-                    {
-                        decimal total = 0;
-                        foreach (var VARIABLE in tableau)
-                        {
-                            total = total + VARIABLE;
-                        }
-
-                        return total;
-                    }
                 }
                 else if (input == 3)
                 {
@@ -87,13 +75,6 @@ namespace labo6
 
                     distance = Distance(x1, y1, x2, y2);
                     Console.WriteLine($"la distance entre les deux est de {distance}");
-
-                    static double Distance(double x1, double y1, double x2, double y2)
-                    {
-                        double distance = 0;
-                        distance = Math.Round(Math.Sqrt(Math.Pow((x1 - x2), 2) + Math.Pow((y1 - y2), 2)), 2);
-                        return distance;
-                    }
                 }
                 else if (input == 4)
                 {
@@ -123,24 +104,6 @@ namespace labo6
                         Randomnumbers(10);
                         Console.WriteLine();
                     }
-
-                    static int[] Randomnumbers(int nombre)
-                    {
-                        int[] tableau1 = new int[nombre];
-                        Random random = new Random();
-
-                        for (int i = 0; i < tableau1.Length; i++)
-                        {
-                            tableau1[i] = random.Next(0, 100);
-                            Console.Write($"{tableau1[i]} ");
-                            if ((i + 1) != tableau1.Length)
-                            {
-                                Console.Write(", ");
-                            }
-                        }
-
-                        return tableau1;
-                    }
                 }
                 else if (input == 5)
                 {
@@ -168,20 +131,6 @@ namespace labo6
                     } while (stop == "n");
 
                     Console.WriteLine("fin de la fonction");
-
-
-                    static int Power(int nombre, int puissance)
-                    {
-                        int reponse = 1;
-
-                        while (puissance > 0)
-                        {
-                            reponse *= nombre;
-                            puissance--;
-                        }
-
-                        return reponse;
-                    }
                 }
                 else if (input == 6)
                 {
@@ -208,33 +157,69 @@ namespace labo6
                     } while (Anotherpower(stop));
 
                     Console.WriteLine("fin de la fonction");
-
-
-                    public static int Power(int nombre, int puissance)
-                    {
-                        int reponse = 1;
-
-                        while (puissance > 0)
-                        {
-                            reponse *= nombre;
-                            puissance--;
-                        }
-
-                        return reponse;
-                    }
-
-                    static bool Anotherpower(String stop)
-                    {
-                        return stop == "n";
-                    }
                 }
             } while (input != 8);
         }
+
         public static int Accumulator(int nombre1, int nombre2, int nombre3, int nombre4, int nombre5)
         {
             int resultat = 0;
 
             return nombre1 + nombre2 + nombre3 + nombre4 + nombre5;
+        }
+
+        public static decimal Sum(decimal[] tableau)
+        {
+            decimal total = 0;
+            foreach (var VARIABLE in tableau)
+            {
+                total = total + VARIABLE;
+            }
+
+            return total;
+        }
+
+        static double Distance(double x1, double y1, double x2, double y2)
+        {
+            double distance = 0;
+            distance = Math.Round(Math.Sqrt(Math.Pow((x1 - x2), 2) + Math.Pow((y1 - y2), 2)), 2);
+            return distance;
+        }
+
+        static int[] Randomnumbers(int nombre)
+        {
+            int[] tableau1 = new int[nombre];
+            Random random = new Random();
+
+            for (int i = 0; i < tableau1.Length; i++)
+            {
+                tableau1[i] = random.Next(0, 100);
+                Console.Write($"{tableau1[i]} ");
+                if ((i + 1) != tableau1.Length)
+                {
+                    Console.Write(", ");
+                }
+            }
+
+            return tableau1;
+        }
+
+        static int Power(int nombre, int puissance)
+        {
+            int reponse = 1;
+
+            while (puissance > 0)
+            {
+                reponse *= nombre;
+                puissance--;
+            }
+
+            return reponse;
+        }
+
+        static bool Anotherpower(String stop)
+        {
+            return stop == "n";
         }
     }
 }

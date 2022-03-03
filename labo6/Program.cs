@@ -265,7 +265,7 @@ namespace labo6
             Console.WriteLine("fin de la fonction");
 
 
-            static int Power(int nombre, int puissance)
+            public static int Power(int nombre, int puissance)
             {
                 int reponse = 1;
 

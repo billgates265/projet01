@@ -41,14 +41,7 @@ namespace labo6
                     total = Accumulator(nombre1, nombre2, nombre3, nombre4, nombre5);
                     Console.WriteLine($"la somme des 5 nombres est de {total}");
                     Console.WriteLine();
-
-
-                    static int Accumulator(int nombre1, int nombre2, int nombre3, int nombre4, int nombre5)
-                    {
-                        int resultat = 0;
-
-                        return nombre1 + nombre2 + nombre3 + nombre4 + nombre5;
-                    }
+                    
                 }
                 else if (input == 2)
                 {
@@ -217,7 +210,7 @@ namespace labo6
                     Console.WriteLine("fin de la fonction");
 
 
-                    static int Power(int nombre, int puissance)
+                    public static int Power(int nombre, int puissance)
                     {
                         int reponse = 1;
 
@@ -236,6 +229,12 @@ namespace labo6
                     }
                 }
             } while (input != 8);
+        }
+        public static int Accumulator(int nombre1, int nombre2, int nombre3, int nombre4, int nombre5)
+        {
+            int resultat = 0;
+
+            return nombre1 + nombre2 + nombre3 + nombre4 + nombre5;
         }
     }
 }

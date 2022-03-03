@@ -1,0 +1,15 @@
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\labo6.csproj.AssemblyReference.cache
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\labo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\labo6.AssemblyInfoInputs.cache
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\labo6.AssemblyInfo.cs
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\labo6.csproj.CoreCompileInputs.cache
+C:\Users\alexd\RiderProjects\Projet01\labo6\bin\Debug\net6.0\labo6.exe
+C:\Users\alexd\RiderProjects\Projet01\labo6\bin\Debug\net6.0\labo6.deps.json
+C:\Users\alexd\RiderProjects\Projet01\labo6\bin\Debug\net6.0\labo6.runtimeconfig.json
+C:\Users\alexd\RiderProjects\Projet01\labo6\bin\Debug\net6.0\labo6.dll
+C:\Users\alexd\RiderProjects\Projet01\labo6\bin\Debug\net6.0\ref\labo6.dll
+C:\Users\alexd\RiderProjects\Projet01\labo6\bin\Debug\net6.0\labo6.pdb
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\labo6.dll
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\ref\labo6.dll
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\labo6.pdb
+C:\Users\alexd\RiderProjects\Projet01\labo6\obj\Debug\net6.0\labo6.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexd\\RiderProjects\\projet01\\leap switch\\leap switch.csproj",
+      "projectUniqueName": "C:\\Users\\alexd\\RiderProjects\\Projet01\\leap switch\\leap switch.csproj",
       "projectName": "leap switch",
-      "projectPath": "C:\\Users\\alexd\\RiderProjects\\projet01\\leap switch\\leap switch.csproj",
+      "projectPath": "C:\\Users\\alexd\\RiderProjects\\Projet01\\leap switch\\leap switch.csproj",
       "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexd\\RiderProjects\\projet01\\leap switch\\obj\\",
+      "outputPath": "C:\\Users\\alexd\\RiderProjects\\Projet01\\leap switch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexd\\AppData\\Roaming\\NuGet\\NuGet.Config"

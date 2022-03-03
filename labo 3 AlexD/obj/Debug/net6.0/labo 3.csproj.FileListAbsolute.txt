@@ -1,0 +1,15 @@
+C:\Users\alexd\RiderProjects\projet01\labo 3\bin\Debug\net6.0\labo 3.exe
+C:\Users\alexd\RiderProjects\projet01\labo 3\bin\Debug\net6.0\labo 3.deps.json
+C:\Users\alexd\RiderProjects\projet01\labo 3\bin\Debug\net6.0\labo 3.runtimeconfig.json
+C:\Users\alexd\RiderProjects\projet01\labo 3\bin\Debug\net6.0\labo 3.dll
+C:\Users\alexd\RiderProjects\projet01\labo 3\bin\Debug\net6.0\ref\labo 3.dll
+C:\Users\alexd\RiderProjects\projet01\labo 3\bin\Debug\net6.0\labo 3.pdb
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\labo 3.csproj.AssemblyReference.cache
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\labo 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\labo 3.AssemblyInfoInputs.cache
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\labo 3.AssemblyInfo.cs
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\labo 3.csproj.CoreCompileInputs.cache
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\labo 3.dll
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\ref\labo 3.dll
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\labo 3.pdb
+C:\Users\alexd\RiderProjects\projet01\labo 3\obj\Debug\net6.0\labo 3.genruntimeconfig.cache

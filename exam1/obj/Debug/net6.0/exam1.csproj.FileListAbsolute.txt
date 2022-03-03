@@ -1,0 +1,15 @@
+C:\Users\alexd\RiderProjects\Projet01\exam1\bin\Debug\net6.0\exam1.exe
+C:\Users\alexd\RiderProjects\Projet01\exam1\bin\Debug\net6.0\exam1.deps.json
+C:\Users\alexd\RiderProjects\Projet01\exam1\bin\Debug\net6.0\exam1.runtimeconfig.json
+C:\Users\alexd\RiderProjects\Projet01\exam1\bin\Debug\net6.0\exam1.dll
+C:\Users\alexd\RiderProjects\Projet01\exam1\bin\Debug\net6.0\ref\exam1.dll
+C:\Users\alexd\RiderProjects\Projet01\exam1\bin\Debug\net6.0\exam1.pdb
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\exam1.csproj.AssemblyReference.cache
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\exam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\exam1.AssemblyInfoInputs.cache
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\exam1.AssemblyInfo.cs
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\exam1.csproj.CoreCompileInputs.cache
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\exam1.dll
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\ref\exam1.dll
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\exam1.pdb
+C:\Users\alexd\RiderProjects\Projet01\exam1\obj\Debug\net6.0\exam1.genruntimeconfig.cache

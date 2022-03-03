@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexd\\RiderProjects\\projet01\\leap\\leap.csproj": {}
+    "C:\\Users\\alexd\\RiderProjects\\Projet01\\leap\\leap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexd\\RiderProjects\\projet01\\leap\\leap.csproj": {
+    "C:\\Users\\alexd\\RiderProjects\\Projet01\\leap\\leap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexd\\RiderProjects\\projet01\\leap\\leap.csproj",
+        "projectUniqueName": "C:\\Users\\alexd\\RiderProjects\\Projet01\\leap\\leap.csproj",
         "projectName": "leap",
-        "projectPath": "C:\\Users\\alexd\\RiderProjects\\projet01\\leap\\leap.csproj",
+        "projectPath": "C:\\Users\\alexd\\RiderProjects\\Projet01\\leap\\leap.csproj",
         "packagesPath": "C:\\Users\\alexd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexd\\RiderProjects\\projet01\\leap\\obj\\",
+        "outputPath": "C:\\Users\\alexd\\RiderProjects\\Projet01\\leap\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexd\\AppData\\Roaming\\NuGet\\NuGet.Config"
